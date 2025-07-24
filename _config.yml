@@ -1,5 +1,6 @@
-theme: mediumish
+theme: minima
 
 title: Suhani's Personal Website
 author: Suhani Tailor
+baseurl: ""
 description: A place to publish my projects! 
